@@ -8,7 +8,7 @@ I am currently learning cloud computing and cybersecurity. This is my first Gith
 - Cybersecurity basics
 - Technical Support and DevOps
 
-- ## My Goals:
+## My Goals:
 - Build a real cloud
 - Solve real business problems
 - Grow as a tech support and cloud Admin
